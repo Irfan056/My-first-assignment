@@ -41,6 +41,11 @@ body{
     border-radius: 8px;
     border: none;
     margin-top: 20px;
+    
+}
+.btn-primary a{
+    text-decoration: none;
+    color: white;
 }
 
 /* vision design */
@@ -92,6 +97,10 @@ body{
     width: 122px;
     color: white;
 }
+.btn-secondary-1 a{
+    text-decoration: none;
+    color: white;
+}
 .vision-description-2{
     background-color: #C6E4D6;
     border-radius: 16px;
@@ -103,6 +112,10 @@ body{
     border: none;
     border-radius: 8px;
     width: 122px;
+    color: white;
+}
+.btn-secondary-2 a{
+    text-decoration: none;
     color: white;
 }
 .vision-description-3{
@@ -118,6 +131,49 @@ body{
     width: 122px;
     color: white;
 }
+.btn-secondary-3 a{
+    text-decoration: none;
+    color: white;
+}
+
+/* challenging part */
+
+.speech{
+   background-image: url('../assets/quote-bg.png');
+   background-repeat: no-repeat;
+   margin-left: 180px;
+   margin-right: 180px;
+   background-color: white;
+   width: 94%;
+   padding-left: 10px;
+   padding-right: 70px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border-radius: 16px;
+   
+    
+}
+.speech-description{
+    width: 1280px;
+    color: #0E0E0E;
+    opacity: 70%;
+}
+.author-name{
+    
+    width: 1280px;
+    margin-bottom: 0%;
+    margin-top: 20px;
+}
+.author-title{
+   
+    width: 1280px;
+    color: #0E0E0E;
+    opacity: 70%;
+    margin-top: 10px;
+}
+
+
+
 /* Satelite design */
 
 
@@ -187,6 +243,10 @@ body{
     width: 122px;
     color: white;
 }
+.satelite-btn a{
+    text-decoration: none;
+    color: white;
+}
 
 /* donation design */
 
@@ -213,7 +273,7 @@ body{
     border: none;
     border-radius: 8px;
     width: 200px;
-    color: #0E0E0E;
+    
     margin-bottom: 24px;
     margin-right: 20px;
     font-weight: bold;
@@ -221,8 +281,13 @@ body{
     text-align: center;
 
 }
+.button a{
+    text-decoration: none;
+    color: #0E0E0E;
+}
 .btn-2{
     background-color: #C6E4D6;
+    text-decoration: none;
 }
 .text-area{
     width: 1032px;
