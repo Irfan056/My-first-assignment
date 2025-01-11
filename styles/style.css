@@ -47,6 +47,10 @@ body{
     text-decoration: none;
     color: white;
 }
+  
+.btn-primary:hover{
+    background-color: tomato;
+}
 
 /* vision design */
 .vision{
@@ -101,6 +105,9 @@ body{
     text-decoration: none;
     color: white;
 }
+.btn-secondary-1:hover{
+    background-color: tomato;
+}
 .vision-description-2{
     background-color: #C6E4D6;
     border-radius: 16px;
@@ -117,6 +124,9 @@ body{
 .btn-secondary-2 a{
     text-decoration: none;
     color: white;
+}
+.btn-secondary-2:hover{
+    background-color: tomato;
 }
 .vision-description-3{
     background-color: #FFF7DF;
@@ -135,19 +145,20 @@ body{
     text-decoration: none;
     color: white;
 }
+.btn-secondary-3:hover{
+    background-color: tomato;
+}
 
 /* challenging part */
 
 .speech{
    background-image: url('../assets/quote-bg.png');
    background-repeat: no-repeat;
+   background-position: left 50px right 50px;
    margin: 0px 180px;
    background-color: white;
    width: 94%;
-   padding-left: 10px;
-   padding-right: 70px;
-   padding-top: 20px;
-   padding-bottom: 20px;
+   padding: 20px 70px 20px 10px;
    border-radius: 16px;
    
     
@@ -245,6 +256,8 @@ body{
 .satelite-btn a{
     text-decoration: none;
     color: white;
+}.satelite-btn:hover{
+    background-color: tomato;
 }
 
 /* donation design */
@@ -284,9 +297,15 @@ body{
     text-decoration: none;
     color: #0E0E0E;
 }
+.button:hover{
+    background-color: tomato;
+}
 .btn-2{
     background-color: #C6E4D6;
     text-decoration: none;
+}
+.btn-2:hover{
+    background-color: tomato;
 }
 .text-area{
     width: 1032px;
