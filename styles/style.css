@@ -141,8 +141,7 @@ body{
 .speech{
    background-image: url('../assets/quote-bg.png');
    background-repeat: no-repeat;
-   margin-left: 180px;
-   margin-right: 180px;
+   margin: 0px 180px;
    background-color: white;
    width: 94%;
    padding-left: 10px;
